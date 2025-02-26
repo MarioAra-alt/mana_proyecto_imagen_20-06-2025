@@ -1,0 +1,1 @@
+# mana_proyecto_imagen_20-06-2025

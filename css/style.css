@@ -15,11 +15,13 @@
     margin-top: 25px;
     margin-right: 25px;
 }
+
 #avatar{
     width: 100px;
     height: auto;
     border-radius: 50px;
 }
+
 .map{
     width: 900px;
     height: 500px;
@@ -31,13 +33,14 @@
     position: absolute;
     width: inherit;
     height: inherit;
+
 }
 
 .map .sensor{
     display: inline-block;
     position: absolute;
-    width: 50PX;
-    height: 50PX;
+    width: 50px;
+    height: 50px;
 
 }
 
@@ -52,8 +55,8 @@
     display: inline-block;
     width: 200px;
     height: 100px;
-    background-color: #9fc990;
-    border-radius: 10%;
+    background-color: #9FC990;
+    border-radius: 10% ;
 }
 
 .popup::after{
@@ -64,12 +67,13 @@
     margin-left: -10px;
     border-width: 10px;
     border-style: solid;
-    border-color: #9fc990 transparent transparent transparent;
+    border-color: #9FC990 transparent transparent transparent;
 }
 
 .popup span{
     width: 90%;
-    height: 10px;
+    margin: 10px;
     display: inline-block;
     text-align: center;
+    
 }
